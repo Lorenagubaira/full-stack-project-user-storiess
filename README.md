@@ -6,7 +6,7 @@ authors: ["arnaldoperez"]
 
 ---
 
-![Fullstack Project](https://storage.googleapis.com/breathecode-asset-images/d866be3d7f338844c8a66e6fa94190ebe8ef5912f889c4b3f5923864f9b64ebc.png?raw=true)
+![Fullstack Project](https://github.com/4GeeksAcademy/full-stack-project-user-stories/blob/main/assets/full-stack-project.png?raw=true)
 
 <onlyfor saas="false" withBanner="false">
 
